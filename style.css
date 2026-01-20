@@ -26,6 +26,6 @@ body {
 }
 
 #kirk {
-    position-anchor: right center;
+    right: 4px;
     position: flex;
 }
